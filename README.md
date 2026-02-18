@@ -81,13 +81,3 @@ The dataset contains animal intake and outcome records, including animal identif
 
 ---
 
-## How to Reproduce
-
-1. Import the original animals dataset into MySQL.
-2. Create a working copy of the table.
-3. Run duplicate detection and cleanup queries.
-4. Standardize the age column into months.
-5. Execute analysis queries grouped by objectives.
-6. Export results for visualization in Tableau.
-
----
