@@ -78,7 +78,6 @@ The dataset contains animal intake and outcome records, including animal identif
 
 * MySQL
 * Tableau
-* Microsoft Excel / Google Docs for reporting
 
 ---
 
@@ -92,9 +91,3 @@ The dataset contains animal intake and outcome records, including animal identif
 6. Export results for visualization in Tableau.
 
 ---
-
-## Author
-
-Chris Valencia
-Information Science & Data Analytics – San Jose State University
-Experience with SQL, Tableau, and real-world analytics projects
