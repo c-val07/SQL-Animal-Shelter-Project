@@ -1,4 +1,4 @@
-# Animal Shelter Data Optimization & Adoption Analysis
+# Animal Shelter Data Optimization & Adoption Analysis 
 
 ## Overview
 
